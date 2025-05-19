@@ -1,1 +1,0 @@
-savedcmd_/home/rebel/Documents/vishnu/Gpio_led/gpio_led.mod := printf '%s\n'   gpio_led.o | awk '!x[$$0]++ { print("/home/rebel/Documents/vishnu/Gpio_led/"$$0) }' > /home/rebel/Documents/vishnu/Gpio_led/gpio_led.mod

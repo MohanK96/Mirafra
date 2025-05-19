@@ -1,1 +1,0 @@
-savedcmd_/home/rebel/Documents/vishnu/Gpio_led/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/rebel/Documents/vishnu/Gpio_led/Module.symvers -T /home/rebel/Documents/vishnu/Gpio_led/modules.order -i Module.symvers -e 
