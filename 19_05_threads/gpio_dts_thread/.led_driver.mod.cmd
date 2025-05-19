@@ -1,0 +1,1 @@
+savedcmd_/home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/led_driver.mod := printf '%s\n'   led_driver.o | awk '!x[$$0]++ { print("/home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/"$$0) }' > /home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/led_driver.mod

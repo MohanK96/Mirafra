@@ -1,0 +1,1 @@
+savedcmd_/home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/Module.symvers -T /home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/modules.order -i Module.symvers -e 

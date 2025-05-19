@@ -1,0 +1,1 @@
+savedcmd_/home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/modules.order := {   echo /home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/led_driver.o; :; } > /home/rebel/Documents/mohan/19_05_threads/gpio_dts_thread/modules.order
